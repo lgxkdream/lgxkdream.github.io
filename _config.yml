@@ -1,10 +1,10 @@
 # Site settings
-title: 星空dream Blog
-SEOTitle: 星空dream的博客 | XKdream Blog
+title: XKDREAM Blog
+SEOTitle: 星空dream的博客 | XKDREAM Blog
 header-img: img/post-bg-desk.jpg
 email: lgxkdream@foxmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, XKdream Blog, 星空dream的博客, ligang, 李刚, iOS, Apple, iPhone"
+keyword: "XKDREAM, XKDREAM Blog, 星空dream的博客, ligang, 李刚, iOS, Apple, iPhone"
 url: "https://lgxkdream.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lgxkdream/lgxkdream.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/lgxkdream/lgxkdream.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-xkdream-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
